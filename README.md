@@ -5,8 +5,11 @@ to setup the database you need to add .env file to a mongodb hosting service..i 
 the .env file should look like this
 
 DB_HOST=THE_HOST_URL
+
 DB_USER=THE_DATABASE_USER
+
 DB_PASS=THE_DATABASE_PASSWORD
+
 
 ## running instructions
 
