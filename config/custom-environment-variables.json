@@ -1,0 +1,9 @@
+{
+  "db": {
+    "connection": "DB_HOST",
+    "option": {
+      "user": "DB_USER",
+      "pass": "DB_PASS"
+    }
+  }
+}

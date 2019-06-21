@@ -1,0 +1,15 @@
+{
+  "db": {
+    "connection": "the path to mongodb host",
+    "option":{
+    "user": "a data base user",
+    "pass": "a database password",
+    "useNewUrlParser": true,
+    "useCreateIndex": true,
+    "useFindAndModify":false
+    }
+  },
+  "apiServer": {
+    "port": 9000
+  }
+}
